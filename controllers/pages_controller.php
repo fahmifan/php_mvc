@@ -7,7 +7,7 @@
 		}
 
 		public function error() {
-			require_once('viwes/pages/error.php');
+			require_once('views/pages/error.php');
 		}
 	}
 ?>
